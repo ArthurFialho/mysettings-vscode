@@ -1,3 +1,5 @@
+<h1 align="center">These are just my VS Code user settings in JSON</h1>
+
 {
   "workbench.startupEditor": "newUntitledFile",
   "editor.fontSize": 12.5,
