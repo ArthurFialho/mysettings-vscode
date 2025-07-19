@@ -6,6 +6,12 @@
     100,
     130
   ],
+  "terminal.integrated.defaultProfile.windows": "WSL",
+  "terminal.integrated.profiles.windows": {
+    "WSL": {
+      "path": "C:\\Windows\\System32\\wsl.exe"
+    }
+  },
   "editor.formatOnSave": true,
   "workbench.activityBar.location": "hidden",
   "extensions.ignoreRecommendations": true,
@@ -69,7 +75,12 @@
     "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-http-request-post-response.instructions.md": true,
     "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true,
     "/tmp/postman-http-request-post-response.instructions.md": true,
-    "/tmp/postman-http-request-pre-request.instructions.md": true
+    "/tmp/postman-http-request-pre-request.instructions.md": true,
+    "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-collections-post-response.instructions.md": true,
+    "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-collections-pre-request.instructions.md": true,
+    "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-folder-post-response.instructions.md": true,
+    "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-folder-pre-request.instructions.md": true
   },
   "workbench.editor.enablePreview": false,
+  "terminal.integrated.defaultProfile.linux": "zsh"
 }
