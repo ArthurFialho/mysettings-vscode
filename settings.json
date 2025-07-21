@@ -2,16 +2,7 @@
   "workbench.startupEditor": "newUntitledFile",
   "editor.fontSize": 12.5,
   "editor.lineHeight": 1.8,
-  "editor.rulers": [
-    100,
-    130
-  ],
-  "terminal.integrated.defaultProfile.windows": "WSL",
-  "terminal.integrated.profiles.windows": {
-    "WSL": {
-      "path": "C:\\Windows\\System32\\wsl.exe"
-    }
-  },
+  "editor.rulers": [100, 130],
   "editor.formatOnSave": true,
   "workbench.activityBar.location": "hidden",
   "extensions.ignoreRecommendations": true,
@@ -76,11 +67,14 @@
     "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true,
     "/tmp/postman-http-request-post-response.instructions.md": true,
     "/tmp/postman-http-request-pre-request.instructions.md": true,
+    "/tmp/postman-collections-post-response.instructions.md": true,
+    "/tmp/postman-collections-pre-request.instructions.md": true,
+    "/tmp/postman-folder-post-response.instructions.md": true,
+    "/tmp/postman-folder-pre-request.instructions.md": true,
     "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-collections-post-response.instructions.md": true,
     "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-collections-pre-request.instructions.md": true,
     "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-folder-post-response.instructions.md": true,
     "C:\\Users\\Arthur\\AppData\\Local\\Temp\\postman-folder-pre-request.instructions.md": true
   },
-  "workbench.editor.enablePreview": false,
-  "terminal.integrated.defaultProfile.linux": "zsh"
+  "workbench.editor.enablePreview": false
 }
