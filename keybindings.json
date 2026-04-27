@@ -1,0 +1,28 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+i",
+        "command": "composerMode.agent"
+    },
+    {
+        "key": "ctrl+alt+s",
+        "command": "workbench.action.toggleUnifiedSidebarFromKeyboard",
+        "when": "cursor.agentIdeUnification.enabled == true && !isAuxiliaryWindowFocusedContext"
+    },
+    {
+        "key": "ctrl+alt+j",
+        "command": "workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+alt+j",
+        "command": "workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+alt+up",
+        "command": "workbench.action.terminal.focusPrevious"
+    },
+    {
+        "key": "ctrl+alt+down",
+        "command": "workbench.action.terminal.focusNext"
+    }
+]
