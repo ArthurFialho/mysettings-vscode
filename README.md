@@ -1,4 +1,4 @@
-# ⚙️ My VSCode / Cursor Settings
+# ⚙️ My Cursor/VSCode Settings
 
 > Personal IDE settings. Copy, paste, and code better.
 
